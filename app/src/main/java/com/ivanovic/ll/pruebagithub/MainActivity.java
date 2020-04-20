@@ -11,12 +11,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        float suma = sumar();
+        float suma = sumar(5,9);
     }
 
-    public float sumar()
+    public float sumar(a,b)
     {
-        return 2+3;
+        return a+b;
     }
 
     public double restar()
