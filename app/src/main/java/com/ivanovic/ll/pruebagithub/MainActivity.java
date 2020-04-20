@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         float suma = sumar(5,9);
     }
 
-    public float sumar(a,b)
+    public float sumar(float a,float b)
     {
         return a+b;
     }
