@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
     {
         return 2+3;
     }
+
+    public double restar()
+    {
+        return 23.6;
+    }
 }
